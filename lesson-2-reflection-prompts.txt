@@ -28,10 +28,10 @@ organized?
 when we want to work on multiple items and want to organize it well, we can create branch
 
 How would branches help?
-
-
+they help in working two different things simultaneously
 
 How do the diagrams help you visualize the branch structure?
+diagrams gives clear picture of how the branches were created and what was its parent branches.
 
 What is the result of merging two branches together? 
 
