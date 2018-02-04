@@ -12,7 +12,7 @@ How is the staging area different from the working directory and the repository?
 staging area is intermediate stage between pushing changes from working directory to repo
 
 What value do you think it offers?
-
+we can commit the files we want and ignore the files we dont want to commit.
 
 
 
@@ -25,6 +25,7 @@ by commiting each time one logical change we can ensure if we want to revert inc
 
 What are some situations when branches would be helpful in keeping your history
 organized? 
+when we want to work on multiple items and want to organize it well, we can create branch
 
 How would branches help?
 
