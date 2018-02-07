@@ -27,4 +27,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    so that we can get it reviwed by others via PRs. Also if more than one person is working on updating master then working on separate branch is right thing so that we can colloborate well
